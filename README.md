@@ -68,17 +68,13 @@ tar -xf backups/part_002.tar
 - Works efficiently even with millions of files or paths containing special characters.
 
 ## 🧾 Example Output
-
+```bash
 ==> Scanning files in /mnt/data ...
-
 ==> Writing tars of max 4G bytes to './backups'
-
 ==> Writing tar chunk: ./backups/part_001.tar (3.99 GB)
-
 ==> Writing tar chunk: ./backups/part_002.tar (3.98 GB)
-
 ✅ All done! Created 12 archives.
-
+```
 ## 💡 Tips
 
 To verify contents of a tar file:
