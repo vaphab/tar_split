@@ -70,9 +70,13 @@ tar -xf backups/part_002.tar
 ## 🧾 Example Output
 
 ==> Scanning files in /mnt/data ...
+
 ==> Writing tars of max 4G bytes to './backups'
+
 ==> Writing tar chunk: ./backups/part_001.tar (3.99 GB)
+
 ==> Writing tar chunk: ./backups/part_002.tar (3.98 GB)
+
 ✅ All done! Created 12 archives.
 
 ## 💡 Tips
